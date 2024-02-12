@@ -1,0 +1,452 @@
+[
+  {
+    "image": "105.webp",
+    "optionFour": "Fruity Candy",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Buffalo Win",
+    "optionThree": "Candy Bonanza",
+    "correctAnswer": "4",
+    "optionOne": "Circus Delight"
+  },
+  {
+    "image": "106.webp",
+    "optionFour": "Totem Wonders",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Jack Frost\u0027s Winter",
+    "optionThree": "Fortune Ox",
+    "correctAnswer": "1",
+    "optionOne": "Lucky Clover Lady"
+  },
+  {
+    "image": "107.webp",
+    "optionFour": "Jack Frost\u0027s Winter",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Destiny of Sun \u0026 Moon",
+    "optionThree": "Totem Wonders",
+    "correctAnswer": "1",
+    "optionOne": "Super Golf Drive"
+  },
+  {
+    "image": "108.webp",
+    "optionFour": "Destiny of Sun \u0026 Moon",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Mystical Spirits",
+    "optionThree": "Rave Party Fever",
+    "correctAnswer": "2",
+    "optionOne": "Mermaid Riches"
+  },
+  {
+    "image": "109.webp",
+    "optionFour": "Songkran Splash",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Fortune Tiger",
+    "optionThree": "Speed Winner",
+    "correctAnswer": "4",
+    "optionOne": "Fortune Ox"
+  },
+  {
+    "image": "110.webp",
+    "optionFour": "Rave Party Fever",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Supermarket Spree",
+    "optionThree": "Lucky Clover Lady",
+    "correctAnswer": "1",
+    "optionOne": "Hawaiian Tiki"
+  },
+  {
+    "image": "111.webp",
+    "optionFour": "Galactic Gems",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Rave Party Fever",
+    "optionThree": "Mermaid Riches",
+    "correctAnswer": "2",
+    "optionOne": "Jack Frost\u0027s Winter"
+  },
+  {
+    "image": "99.webp",
+    "optionFour": "Fortune Rabbit",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Legend of Perseus",
+    "optionThree": "Secrets of Cleopatra",
+    "correctAnswer": "4",
+    "optionOne": "Fortune Rabbit"
+  },
+  {
+    "image": "100.webp",
+    "optionFour": "Rave Party Fever",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Legendary Monkey King",
+    "optionThree": "Candy Bonanza",
+    "correctAnswer": "1",
+    "optionOne": "Midas Fortune"
+  },
+  {
+    "image": "101.webp",
+    "optionFour": "Galactic Gems",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Emoji Riches",
+    "optionThree": "Buffalo Win",
+    "correctAnswer": "1",
+    "optionOne": "Diner Delights"
+  },
+  {
+    "image": "102.webp",
+    "optionFour": "Groundhog Harvest",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Fortune Tiger",
+    "optionThree": "Mermaid Riches",
+    "correctAnswer": "1",
+    "optionOne": "Alchemy Gold"
+  },
+  {
+    "image": "103.webp",
+    "optionFour": "Totem Wonders",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Genie\u0027s 3 Wishes",
+    "optionThree": "Raider Jane\u0027s Crypt of Fortune",
+    "correctAnswer": "4",
+    "optionOne": "Circus Delight"
+  },
+  {
+    "image": "104.webp",
+    "optionFour": "Raider Jane\u0027s Crypt of Fortune",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Super Golf Drive",
+    "optionThree": "Prosperity Fortune Tree",
+    "correctAnswer": "3",
+    "optionOne": "Circus Delight"
+  },
+  {
+    "image": "96.webp",
+    "optionFour": "Wild Coaster",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Wild Bounty Showdown",
+    "optionThree": "Butterfly Blossom",
+    "correctAnswer": "2",
+    "optionOne": "Speed Winner"
+  },
+  {
+    "image": "97.webp",
+    "optionFour": "Garuda Gems",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Wild Coaster",
+    "optionThree": "Wild Bandito",
+    "correctAnswer": "2",
+    "optionOne": "Rooster Rumble"
+  },
+  {
+    "image": "98.webp",
+    "optionFour": "Emoji Riches",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Genie\u0027s 3 Wishes",
+    "optionThree": "Butterfly Blossom",
+    "correctAnswer": "1",
+    "optionOne": "Legend of Perseus"
+  },
+  {
+    "image": "97.webp",
+    "optionFour": "Speed Winner",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Mystical Spirits",
+    "optionThree": "Battleground Royale",
+    "correctAnswer": "4",
+    "optionOne": "Fortune Tiger"
+  },
+  {
+    "image": "1.webp",
+    "optionFour": "Totem Wonders",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Lucky Piggy",
+    "optionThree": "Battleground Royale",
+    "correctAnswer": "2",
+    "optionOne": "Genie\u0027s 3 Wishes"
+  },
+  {
+    "image": "2.webp",
+    "optionFour": "Songkran Splash",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Win Win Fish Prawn Crab",
+    "optionThree": "Jack Frost\u0027s Winter",
+    "correctAnswer": "2",
+    "optionOne": "Buffalo Win"
+  },
+  {
+    "image": "3.webp",
+    "optionFour": "Battleground Royale",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Farm Invaders",
+    "optionThree": "Spirited Wonders",
+    "correctAnswer": "4",
+    "optionOne": "Raider Jane\u0027s Crypt of Fortune"
+  },
+  {
+    "image": "4.webp",
+    "optionFour": "Farm Invaders",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Spirited Wonders",
+    "optionThree": "Rooster Rumble",
+    "correctAnswer": "3",
+    "optionOne": "Lucky Clover Lady"
+  },
+  {
+    "image": "5.webp",
+    "optionFour": "Galactic Gems",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Mermaid Riches",
+    "optionThree": "Prosperity Fortune Tree",
+    "correctAnswer": "1",
+    "optionOne": "Butterfly Blossom"
+  },
+  {
+    "image": "6.webp",
+    "optionFour": "Destiny of Sun \u0026 Moon",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Emoji Riches",
+    "optionThree": "Heist Stakes",
+    "correctAnswer": "4",
+    "optionOne": "Win Win Fish Prawn Crab"
+  },
+  {
+    "image": "7.webp",
+    "optionFour": "Garuda Gems",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Lucky Clover Lady",
+    "optionThree": "Diner Delights",
+    "correctAnswer": "4",
+    "optionOne": "Secrets of Cleopatra"
+  },
+  {
+    "image": "8.webp",
+    "optionFour": "Fortune Tiger",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Alchemy Gold",
+    "optionThree": "Secrets of Cleopatra",
+    "correctAnswer": "4",
+    "optionOne": "Buffalo Win"
+  },
+  {
+    "image": "9.webp",
+    "optionFour": "Supermarket Spree",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Rave Party Fever",
+    "optionThree": "Mask Carnival",
+    "correctAnswer": "3",
+    "optionOne": "Midas Fortune"
+  },
+  {
+    "image": "10.webp",
+    "optionFour": "Hawaiian Tiki",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Emoji Riches",
+    "optionThree": "Mystical Spirits",
+    "correctAnswer": "2",
+    "optionOne": "Sushi Oishi"
+  },
+  {
+    "image": "11.webp",
+    "optionFour": "Buffalo Win",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Fortune Rabbit",
+    "optionThree": "Fortune Ox",
+    "correctAnswer": "1",
+    "optionOne": "Farm Invaders"
+  },
+  {
+    "image": "12.webp",
+    "optionFour": "Spirited Wonders",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Secrets of Cleopatra",
+    "optionThree": "Sushi Oishi",
+    "correctAnswer": "4",
+    "optionOne": "Bali Vacation"
+  },
+  {
+    "image": "13.webp",
+    "optionFour": "Raider Jane\u0027s Crypt of Fortune",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Midas Fortune",
+    "optionThree": "Legendary Monkey King",
+    "correctAnswer": "3",
+    "optionOne": "Super Golf Drive"
+  },
+  {
+    "image": "14.webp",
+    "optionFour": "Win Win Fish Prawn Crab",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Buffalo Win",
+    "optionThree": "Raider Jane\u0027s Crypt of Fortune",
+    "correctAnswer": "2",
+    "optionOne": "Prosperity Fortune Tree"
+  },
+  {
+    "image": "15.webp",
+    "optionFour": "Wild Bounty Showdown",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Win Win Fish Prawn Crab",
+    "optionThree": "Supermarket Spree",
+    "correctAnswer": "3",
+    "optionOne": "Vampire\u0027s Charm"
+  },
+  {
+    "image": "16.webp",
+    "optionFour": "Wild Bounty Showdown",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Raider Jane\u0027s Crypt of Fortune",
+    "optionThree": "Buffalo Win",
+    "correctAnswer": "2",
+    "optionOne": "Rave Party Fever"
+  },
+  {
+    "image": "17.webp",
+    "optionFour": "Wild Coaster",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Groundhog Harvest",
+    "optionThree": "Alchemy Gold",
+    "correctAnswer": "2",
+    "optionOne": "Secrets of Cleopatra"
+  },
+  {
+    "image": "18.webp",
+    "optionFour": "Wild Bandito",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Mermaid Riches",
+    "optionThree": "Guardians of Ice \u0026 Fire",
+    "correctAnswer": "2",
+    "optionOne": "Rave Party Fever"
+  },
+  {
+    "image": "19.webp",
+    "optionFour": "Fortune Rabbit",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Bali Vacation",
+    "optionThree": "Sushi Oishi",
+    "correctAnswer": "3",
+    "optionOne": "Sushi Oishi"
+  },
+  {
+    "image": "20.webp",
+    "optionFour": "Guardians of Ice \u0026 Fire",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Jewels of Prosperity",
+    "optionThree": "Hawaiian Tiki",
+    "correctAnswer": "1",
+    "optionOne": "Heist Stakes"
+  },
+  {
+    "image": "21.webp",
+    "optionFour": "Wild Bandito",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Fruity Candy",
+    "optionThree": "Supermarket Spree",
+    "correctAnswer": "4",
+    "optionOne": "Groundhog Harvest"
+  },
+  {
+    "image": "22.webp",
+    "optionFour": "Majestic Treasures",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Candy Bonanza",
+    "optionThree": "Legend of Perseus",
+    "correctAnswer": "2",
+    "optionOne": "Lucky Piggy"
+  },
+  {
+    "image": "23.webp",
+    "optionFour": "Galactic Gems",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Majestic Treasures",
+    "optionThree": "Mermaid Riches",
+    "correctAnswer": "2",
+    "optionOne": "Wild Bounty Showdown"
+  },
+  {
+    "image": "24.webp",
+    "optionFour": "Vampire\u0027s Charm",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Bali Vacation",
+    "optionThree": "Galactic Gems",
+    "correctAnswer": "2",
+    "optionOne": "Destiny of Sun \u0026 Moon"
+  },
+  {
+    "image": "25.webp",
+    "optionFour": "Bali Vacation",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Wild Bounty Showdown",
+    "optionThree": "Alchemy Gold",
+    "correctAnswer": "1",
+    "optionOne": "Fortune Ox"
+  },
+  {
+    "image": "26.webp",
+    "optionFour": "Legend of Perseus",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Buffalo Win",
+    "optionThree": "Battleground Royale",
+    "correctAnswer": "1",
+    "optionOne": "Guardians of Ice \u0026 Fire"
+  },
+  {
+    "image": "27.webp",
+    "optionFour": "Rave Party Fever",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Galactic Gems",
+    "optionThree": "Genie\u0027s 3 Wishes",
+    "correctAnswer": "2",
+    "optionOne": "Hawaiian Tiki"
+  },
+  {
+    "image": "28.webp",
+    "optionFour": "Jack Frost\u0027s Winter",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Fortune Rabbit",
+    "optionThree": "Buffalo Win",
+    "correctAnswer": "4",
+    "optionOne": "Heist Stakes"
+  },
+  {
+    "image": "29.webp",
+    "optionFour": "Mermaid Riches",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Rave Party Fever",
+    "optionThree": "Candy Bonanza",
+    "correctAnswer": "1",
+    "optionOne": "Jewels of Prosperity"
+  },
+  {
+    "image": "31.webp",
+    "optionFour": "Supermarket Spree",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Lucky Piggy",
+    "optionThree": "Fortune Tiger",
+    "correctAnswer": "1",
+    "optionOne": "Vampire\u0027s Charm"
+  },
+  {
+    "image": "32.webp",
+    "optionFour": "Secrets of Cleopatra",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Majestic Treasures",
+    "optionThree": "Midas Fortune",
+    "correctAnswer": "4",
+    "optionOne": "Totem Wonders"
+  },
+  {
+    "image": "33.webp",
+    "optionFour": "Bali Vacation",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Circus Delight",
+    "optionThree": "Fortune Rabbit",
+    "correctAnswer": "2",
+    "optionOne": "Songkran Splash"
+  },
+  {
+    "image": "34.webp",
+    "optionFour": "Bali Vacation",
+    "question": "เกมอะไรเอ่ย?",
+    "optionTwo": "Super Golf Drive",
+    "optionThree": "Alchemy Gold",
+    "correctAnswer": "1",
+    "optionOne": "Genie\u0027s 3 Wishes"
+  }
+]
