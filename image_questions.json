@@ -1,0 +1,402 @@
+[
+  {
+    "optionFour": "105.webp",
+    "question": "Fruity Candy",
+    "optionTwo": "99.webp",
+    "optionThree": "109.webp",
+    "correctAnswer": "4",
+    "optionOne": "27.webp"
+  },
+  {
+    "optionFour": "106.webp",
+    "question": "Lucky Clover Lady",
+    "optionTwo": "31.webp",
+    "optionThree": "15.webp",
+    "correctAnswer": "4",
+    "optionOne": "99.webp"
+  },
+  {
+    "optionFour": "96.webp",
+    "question": "Super Golf Drive",
+    "optionTwo": "107.webp",
+    "optionThree": "3.webp",
+    "correctAnswer": "2",
+    "optionOne": "102.webp"
+  },
+  {
+    "optionFour": "12.webp",
+    "question": "Mystical Spirits",
+    "optionTwo": "5.webp",
+    "optionThree": "1.webp",
+    "correctAnswer": "1",
+    "optionOne": "108.webp"
+  },
+  {
+    "optionFour": "24.webp",
+    "question": "Songkran Splash",
+    "optionTwo": "109.webp",
+    "optionThree": "32.webp",
+    "correctAnswer": "2",
+    "optionOne": "27.webp"
+  },
+  {
+    "optionFour": "33.webp",
+    "question": "Hawaiian Tiki",
+    "optionTwo": "110.webp",
+    "optionThree": "109.webp",
+    "correctAnswer": "2",
+    "optionOne": "11.webp"
+  },
+  {
+    "optionFour": "111.webp",
+    "question": "Rave Party Fever",
+    "optionTwo": "9.webp",
+    "optionThree": "22.webp",
+    "correctAnswer": "4",
+    "optionOne": "33.webp"
+  },
+  {
+    "optionFour": "34.webp",
+    "question": "Fortune Rabbit",
+    "optionTwo": "12.webp",
+    "optionThree": "4.webp",
+    "correctAnswer": "1",
+    "optionOne": "99.webp"
+  },
+  {
+    "optionFour": "102.webp",
+    "question": "Midas Fortune",
+    "optionTwo": "100.webp",
+    "optionThree": "111.webp",
+    "correctAnswer": "2",
+    "optionOne": "109.webp"
+  },
+  {
+    "optionFour": "101.webp",
+    "question": "Diner Delights",
+    "optionTwo": "102.webp",
+    "optionThree": "110.webp",
+    "correctAnswer": "4",
+    "optionOne": "17.webp"
+  },
+  {
+    "optionFour": "11.webp",
+    "question": "Alchemy Gold",
+    "optionTwo": "105.webp",
+    "optionThree": "23.webp",
+    "correctAnswer": "1",
+    "optionOne": "102.webp"
+  },
+  {
+    "optionFour": "102.webp",
+    "question": "Totem Wonders",
+    "optionTwo": "103.webp",
+    "optionThree": "99.webp",
+    "correctAnswer": "2",
+    "optionOne": "111.webp"
+  },
+  {
+    "optionFour": "105.webp",
+    "question": "Prosperity Fortune Tree",
+    "optionTwo": "33.webp",
+    "optionThree": "104.webp",
+    "correctAnswer": "3",
+    "optionOne": "17.webp"
+  },
+  {
+    "optionFour": "96.webp",
+    "question": "Wild Bounty Showdown",
+    "optionTwo": "33.webp",
+    "optionThree": "107.webp",
+    "correctAnswer": "4",
+    "optionOne": "102.webp"
+  },
+  {
+    "optionFour": "97.webp",
+    "question": "Wild Coaster",
+    "optionTwo": "104.webp",
+    "optionThree": "7.webp",
+    "correctAnswer": "4",
+    "optionOne": "15.webp"
+  },
+  {
+    "optionFour": "6.webp",
+    "question": "Legend of Perseus",
+    "optionTwo": "99.webp",
+    "optionThree": "2.webp",
+    "correctAnswer": "1",
+    "optionOne": "98.webp"
+  },
+  {
+    "optionFour": "18.webp",
+    "question": "Speed Winner",
+    "optionTwo": "25.webp",
+    "optionThree": "97.webp",
+    "correctAnswer": "3",
+    "optionOne": "96.webp"
+  },
+  {
+    "optionFour": "2.webp",
+    "question": "Lucky Piggy",
+    "optionTwo": "1.webp",
+    "optionThree": "28.webp",
+    "correctAnswer": "2",
+    "optionOne": "12.webp"
+  },
+  {
+    "optionFour": "99.webp",
+    "question": "Win Win Fish Prawn Crab",
+    "optionTwo": "97.webp",
+    "optionThree": "15.webp",
+    "correctAnswer": "1",
+    "optionOne": "2.webp"
+  },
+  {
+    "optionFour": "100.webp",
+    "question": "Battleground Royale",
+    "optionTwo": "103.webp",
+    "optionThree": "3.webp",
+    "correctAnswer": "3",
+    "optionOne": "22.webp"
+  },
+  {
+    "optionFour": "103.webp",
+    "question": "Rooster Rumble",
+    "optionTwo": "101.webp",
+    "optionThree": "4.webp",
+    "correctAnswer": "3",
+    "optionOne": "110.webp"
+  },
+  {
+    "optionFour": "111.webp",
+    "question": "Butterfly Blossom",
+    "optionTwo": "7.webp",
+    "optionThree": "5.webp",
+    "correctAnswer": "3",
+    "optionOne": "34.webp"
+  },
+  {
+    "optionFour": "97.webp",
+    "question": "Destiny of Sun \u0026 Moon",
+    "optionTwo": "107.webp",
+    "optionThree": "7.webp",
+    "correctAnswer": "1",
+    "optionOne": "6.webp"
+  },
+  {
+    "optionFour": "23.webp",
+    "question": "Garuda Gems",
+    "optionTwo": "111.webp",
+    "optionThree": "20.webp",
+    "correctAnswer": "1",
+    "optionOne": "7.webp"
+  },
+  {
+    "optionFour": "27.webp",
+    "question": "Fortune Tiger",
+    "optionTwo": "8.webp",
+    "optionThree": "11.webp",
+    "correctAnswer": "2",
+    "optionOne": "24.webp"
+  },
+  {
+    "optionFour": "9.webp",
+    "question": "Mask Carnival",
+    "optionTwo": "96.webp",
+    "optionThree": "7.webp",
+    "correctAnswer": "4",
+    "optionOne": "13.webp"
+  },
+  {
+    "optionFour": "103.webp",
+    "question": "Emoji Riches",
+    "optionTwo": "31.webp",
+    "optionThree": "10.webp",
+    "correctAnswer": "3",
+    "optionOne": "110.webp"
+  },
+  {
+    "optionFour": "11.webp",
+    "question": "Farm Invaders",
+    "optionTwo": "18.webp",
+    "optionThree": "25.webp",
+    "correctAnswer": "4",
+    "optionOne": "103.webp"
+  },
+  {
+    "optionFour": "104.webp",
+    "question": "Spirited Wonders",
+    "optionTwo": "12.webp",
+    "optionThree": "111.webp",
+    "correctAnswer": "2",
+    "optionOne": "108.webp"
+  },
+  {
+    "optionFour": "34.webp",
+    "question": "Legendary Monkey King",
+    "optionTwo": "13.webp",
+    "optionThree": "13.webp",
+    "correctAnswer": "3",
+    "optionOne": "3.webp"
+  },
+  {
+    "optionFour": "32.webp",
+    "question": "Buffalo Win",
+    "optionTwo": "14.webp",
+    "optionThree": "22.webp",
+    "correctAnswer": "2",
+    "optionOne": "20.webp"
+  },
+  {
+    "optionFour": "23.webp",
+    "question": "Supermarket Spree",
+    "optionTwo": "27.webp",
+    "optionThree": "22.webp",
+    "correctAnswer": "1",
+    "optionOne": "15.webp"
+  },
+  {
+    "optionFour": "29.webp",
+    "question": "Raider Jane\u0027s Crypt of Fortune",
+    "optionTwo": "16.webp",
+    "optionThree": "27.webp",
+    "correctAnswer": "2",
+    "optionOne": "5.webp"
+  },
+  {
+    "optionFour": "17.webp",
+    "question": "Groundhog Harvest",
+    "optionTwo": "100.webp",
+    "optionThree": "103.webp",
+    "correctAnswer": "4",
+    "optionOne": "111.webp"
+  },
+  {
+    "optionFour": "6.webp",
+    "question": "Mermaid Riches",
+    "optionTwo": "24.webp",
+    "optionThree": "102.webp",
+    "correctAnswer": "1",
+    "optionOne": "18.webp"
+  },
+  {
+    "optionFour": "17.webp",
+    "question": "Sushi Oishi",
+    "optionTwo": "11.webp",
+    "optionThree": "26.webp",
+    "correctAnswer": "1",
+    "optionOne": "19.webp"
+  },
+  {
+    "optionFour": "14.webp",
+    "question": "Heist Stakes",
+    "optionTwo": "102.webp",
+    "optionThree": "11.webp",
+    "correctAnswer": "1",
+    "optionOne": "20.webp"
+  },
+  {
+    "optionFour": "3.webp",
+    "question": "Wild Bandito",
+    "optionTwo": "21.webp",
+    "optionThree": "11.webp",
+    "correctAnswer": "2",
+    "optionOne": "7.webp"
+  },
+  {
+    "optionFour": "103.webp",
+    "question": "Candy Bonanza",
+    "optionTwo": "22.webp",
+    "optionThree": "111.webp",
+    "correctAnswer": "2",
+    "optionOne": "100.webp"
+  },
+  {
+    "optionFour": "23.webp",
+    "question": "Majestic Treasures",
+    "optionTwo": "103.webp",
+    "optionThree": "29.webp",
+    "correctAnswer": "4",
+    "optionOne": "110.webp"
+  },
+  {
+    "optionFour": "2.webp",
+    "question": "Bali Vacation",
+    "optionTwo": "12.webp",
+    "optionThree": "24.webp",
+    "correctAnswer": "3",
+    "optionOne": "33.webp"
+  },
+  {
+    "optionFour": "21.webp",
+    "question": "Fortune Ox",
+    "optionTwo": "25.webp",
+    "optionThree": "100.webp",
+    "correctAnswer": "2",
+    "optionOne": "13.webp"
+  },
+  {
+    "optionFour": "8.webp",
+    "question": "Guardians of Ice \u0026 Fire",
+    "optionTwo": "26.webp",
+    "optionThree": "22.webp",
+    "correctAnswer": "2",
+    "optionOne": "34.webp"
+  },
+  {
+    "optionFour": "111.webp",
+    "question": "Galactic Gems",
+    "optionTwo": "15.webp",
+    "optionThree": "27.webp",
+    "correctAnswer": "3",
+    "optionOne": "105.webp"
+  },
+  {
+    "optionFour": "28.webp",
+    "question": "Jack Frost\u0027s Winter",
+    "optionTwo": "15.webp",
+    "optionThree": "104.webp",
+    "correctAnswer": "4",
+    "optionOne": "27.webp"
+  },
+  {
+    "optionFour": "34.webp",
+    "question": "Jewels of Prosperity",
+    "optionTwo": "29.webp",
+    "optionThree": "12.webp",
+    "correctAnswer": "2",
+    "optionOne": "17.webp"
+  },
+  {
+    "optionFour": "1.webp",
+    "question": "Vampire\u0027s Charm",
+    "optionTwo": "31.webp",
+    "optionThree": "3.webp",
+    "correctAnswer": "2",
+    "optionOne": "101.webp"
+  },
+  {
+    "optionFour": "32.webp",
+    "question": "Secrets of Cleopatra",
+    "optionTwo": "6.webp",
+    "optionThree": "15.webp",
+    "correctAnswer": "4",
+    "optionOne": "11.webp"
+  },
+  {
+    "optionFour": "102.webp",
+    "question": "Circus Delight",
+    "optionTwo": "33.webp",
+    "optionThree": "14.webp",
+    "correctAnswer": "2",
+    "optionOne": "103.webp"
+  },
+  {
+    "optionFour": "7.webp",
+    "question": "Genie\u0027s 3 Wishes",
+    "optionTwo": "22.webp",
+    "optionThree": "34.webp",
+    "correctAnswer": "3",
+    "optionOne": "103.webp"
+  }
+]
